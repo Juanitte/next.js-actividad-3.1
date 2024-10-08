@@ -12,6 +12,9 @@ export default function Navbar() {
                         <li className="border-r h-20 content-center px-10">
                             <Link href="/tienda" className="text-xl font-bold text-white">Tienda</Link>
                         </li>
+                        <li className="border-r h-20 content-center px-10">
+                            <Link href="/blog" className="text-xl font-bold text-white">Blog</Link>
+                        </li>
                     </div>
                     <div className="flex gap-4">
                         <li className="border-r border-l h-20 content-center px-10">
